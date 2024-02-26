@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.teks {
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+    background-color: rgb(147, 228, 136);
+    font-size: 1.5em;
+}
